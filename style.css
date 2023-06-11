@@ -4,3 +4,6 @@ body {
     width:auto;
     text-align: center;
 }
+div#mainContent {
+    background: white;
+}
